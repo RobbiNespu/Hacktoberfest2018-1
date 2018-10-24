@@ -249,3 +249,7 @@
 ### Name [Harikrushna Vanpariya](https://github.com/hgvanpariya)
 - Bio: I'm Web Java Developer with Experience in Eclipse RCP.
 - Programming Language: Java, Springboot, REST API, Eclipse RCP, Machine Learning
+
+### Name [Robbi Nespu](https://github.com/robbinespu)
+- Bio: Naïve guy that still doesn't know much
+- Programming Language: Kotlin, Js, PHP, Java, Golang, C++
